@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @author       Dogxi
 // @version      1.0
+// @license      MIT
 // @description  获取爱给网音频直链，仅供学习参考，请24小时内删除
 // @match        https://www.aigei.com/*
 // @grant        none
