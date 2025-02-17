@@ -7,13 +7,16 @@ Github仓库: [链接地址](https://github.com/dogyyds/tampermonkey-scripts)
 Greasy Fork: [下载链接](https://greasyfork.org/zh-CN/scripts?by=1436051)
 
 > [!NOTE] 
-> 仅供学习参考，不得用于商业违法用途。
+> 仅供学习参考，不得用于违法用途。QAQ
 
-## 当前列表: 
+## 📚 当前列表: 
 - ✅ 爱给网音频助手 1.0: 支持爱给网音效直链下载，通过ajax截取音频链接，支持24小时缓存。
- 
-## 赞助
-如果你觉得这些脚本对你有帮助，欢迎赞助我，以激励我继续更新和维护这些脚本。
+
+## 👋 寻求帮助 / 代码失效:
+欢迎提交issue，我看到后会及时的回复。
+
+## ☕️ 赞助
+如果你觉得这些脚本对你有帮助，欢迎点个免费的star🌟，或者请我喝杯咖啡☕️，你们的鼓励是我更新和维护这些脚本最大的动力⚡️。
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="display: flex; align-items: center; flex-direction: row;">
