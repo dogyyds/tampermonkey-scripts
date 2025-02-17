@@ -7,7 +7,7 @@ Github仓库: [链接地址](https://github.com/dogyyds/tampermonkey-scripts)
 Greasy Fork: [下载链接](https://greasyfork.org/zh-CN/scripts?by=1436051)
 
 > [!NOTE] 
-> 仅供学习参考，不得用于违法用途。QAQ
+> 仅供学习参考，不得用于违法用途。qwq
 
 ## 📚 当前列表: 
 - ✅ 爱给网音频助手 1.0: 支持爱给网音效直链下载，通过ajax截取音频链接，支持24小时缓存。
