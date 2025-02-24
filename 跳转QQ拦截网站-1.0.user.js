@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         防止QQ拦截网站
+// @name         跳转QQ拦截网站
 // @namespace    http://tampermonkey.net/
 // @author       Dogxi
 // @version      1.0
@@ -12,7 +12,6 @@
 (function () {
   "use strict";
 
-  // 样式定义
   const styles = `
         .popup-container {
             position: fixed;
